@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73f06017a29f2434a847d31cbba13bdc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - groundMaterial: {fileID: 2100000, guid: b1ca8ecbdd1f4a048b2859aa662afdec, type: 2}
+  - snakeMaterial: {fileID: 2100000, guid: 1c597628ec224f44280110ec5f891187, type: 2}
+  - headMaterial: {fileID: 2100000, guid: 4939d4a14c7f3b74c9a994285ee4d6c5, type: 2}
+  - fruitMaterial: {fileID: 2100000, guid: b7729e7eb140e5d4ca69ce014c189049, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
